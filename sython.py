@@ -703,9 +703,6 @@ async def OwnerStart(event):
 
 print("💠 Sython Userbot Running 💠")
 sython1.run_until_disconnected()
-sython2.run_until_disconnected()
-sython3.run_until_disconnected()
-sython4.run_until_disconnected()
-sython5.run_until_disconnected()
+
 
 #code skip accumulate points by t.me.zzzzl1l thank you my bro
