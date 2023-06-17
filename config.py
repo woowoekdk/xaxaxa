@@ -3,10 +3,10 @@ from telethon.sessions import StringSession
 import os
 APP_ID = os.environ.get("APP_ID")
 APP_HASH = os.environ.get("APP_HASH")
-BOT_USERNAME = os.environ.get("BOT_USERNAME")
+BOT_USERNAME = ("e8hbot")
 session1 = os.environ.get("TERMUX")
 SESSION1 = os.environ.get("TERMUX")
-token = os.environ.get("TOKEN")
+token = ("6276696273:AAHE-aoWtFGPjyohuDAG0YecDW1hdQlyKZo")
 DEVLOO = os.environ.get("DEVLO")
 CHNA = os.environ.get("CHNA")
 sython1 = TelegramClient(StringSession(session1), APP_ID, APP_HASH)
