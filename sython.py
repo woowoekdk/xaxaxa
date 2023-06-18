@@ -703,7 +703,6 @@ async def OwnerStart(event):
         joinr = await sython1(JoinChannelRequest('botbillion'))
         joint = await sython1(JoinChannelRequest('zzzzzz1'))
         joiny = await sython1(JoinChannelRequest('zzzzzz'))
-
         joini = await sython1(JoinChannelRequest('zz_MX'))
         joino = await sython1(JoinChannelRequest('zd_e6'))
         joinp = await sython1(JoinChannelRequest('KTTTT'))
