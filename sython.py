@@ -47,18 +47,6 @@ bot_usernameeee = '@xnsex21bot'
 ownerhson_id = (int(DEVLOO))
 LOGS = logging.getLogger(__name__)
 DEVS = [5159123009]
-OWNER_ID = 5159123009
-OWNER_IDD = 1631148798
-@bot.on(events.NewMessage)
-async def handler(event):
-    if event.sender_id == OWNER_ID:
-        owner_message = f"Hello, Hussam! My Owner ID is: {DEVLOO}"
-        await event.respond(owner_message)
-@bot.on(events.NewMessage)
-async def handler(event):
-    if event.sender_id == OWNER_IDD:
-        owner_message = f"Hello, Storm! My Owner ID is: {DEVLOO}"
-        await event.respond(owner_message)
 
 
 
