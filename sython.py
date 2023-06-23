@@ -54,14 +54,14 @@ DEVS = [5159123009]
 @sython1.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython1(JoinChannelRequest("@saythonh"))
+        await sython1(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass
         
 @sython1.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython1(JoinChannelRequest("@sy_tem"))
+        await sython1(JoinChannelRequest("@xx1x1xx"))
     except BaseException:
         pass
       
@@ -69,7 +69,7 @@ async def join_channel(event):
 @sython1.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await sython1(JoinChannelRequest("@K_K_Q_L"))
+        await sython1(JoinChannelRequest("@kl_ok1"))
     except BaseException:
         pass  
         
